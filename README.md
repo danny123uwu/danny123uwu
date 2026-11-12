@@ -1,16 +1,41 @@
-## Hi there 👋
 
-<!--
-**danny123uwu/danny123uwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# Danny
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Estudiante de Ingeniería en Sistemas de la Información
+
+📍 Retalhuleu, Guatemala
+
+---
+
+Me gusta explorar ideas, experimentar con diferentes
+tecnologías y comprender cómo funcionan las cosas.
+
+Este es mi espacio para compartir lo que voy creando
+y aprendiendo.
+
+<br>
+
+[**Explorar mis repositorios**](https://github.com/danny123uwu?tab=repositories) &nbsp;·&nbsp;
+[**LinkedIn**](https://www.linkedin.com/in/justin-oliver-daniel-torrez-sac-539629347/)
+
+</div>
+
+---
+
+### Mi trabajo
+
+Aquí comparto proyectos personales, prácticas y
+experimentos desarrollados durante mi formación.
+
+Cada repositorio representa algo que he querido
+explorar, aprender o poner en práctica.
+
+**[Ver todos mis proyectos →](https://github.com/danny123uwu?tab=repositories)**
+
+---
+
+<div align="center">
+  <sub>Gracias por visitar mi perfil.</sub>
+</div>
