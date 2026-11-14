@@ -27,7 +27,7 @@ Me interesan diferentes áreas de la informática. Me gusta experimentar, resolv
 
 **Lenguajes y desarrollo**
 
-<img src="https://skillicons.dev/icons?i=py,java,c,cpp,js,html,css,react&theme=dark&perline=8" alt="Python, Java, C, C++, JavaScript, HTML, CSS y React" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,py,java,cpp&theme=dark&perline=7" alt="HTML, CSS, JavaScript, React, Python, Java y C++" />
 
 <br><br>
 
@@ -40,6 +40,12 @@ Me interesan diferentes áreas de la informática. Me gusta experimentar, resolv
 **Bases de datos**
 
 <img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" />
+
+<br><br>
+
+**Actualmente aprendiendo**
+
+<img src="https://skillicons.dev/icons?i=rust&theme=dark" alt="Rust (en aprendizaje)" />
 
 </div>
 
